@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "146052060817",
+    "project_id": "uas-21312096",
+    "storage_bucket": "uas-21312096.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146052060817:android:d5bee41643531e7242d130",
+        "android_client_info": {
+          "package_name": "com.arifuas.uas_21312096"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDycam1dpAARcdjaEfriOapQUzO9kW9S5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146052060817:android:6aa4da6bcc5b653642d130",
+        "android_client_info": {
+          "package_name": "com.uas_21312096"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDycam1dpAARcdjaEfriOapQUzO9kW9S5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
